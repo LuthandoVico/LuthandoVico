@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Luthando Akhona Cele</h1>
 <h3 align="center">A passionate frontend & full-stack developer from South Africa</h3>
 
-- 🔭 I’m currently working on [Food Wastage Management System – Web & Mobile App](https://github.com/LuthandoVico)
+- 🔭 I’m have [Food Wastage Management System – Web & Mobile App](https://github.com/LuthandoVico)
 
-- 🌱 I’m currently learning **Mobile app development and Web development**
+- 🌱 I’m effiecient in **Mobile app development and Web development**
 
-- 👯 I’m looking to collaborate on [Java, Oracle, or ASP.Net-based systems solving real-world problems](https://github.com/LuthandoVico)
-
-- 🤝 I’m looking for help with [Optimizing my Image Graph Classifier project](https://github.com/LuthandoVico)
+- 👯 I’m looking to collaborate on [Java, Oracle, or ASP.Net-based systems solving real-world problems](https://github.com/LuthandoVico
 
 - 👨‍💻 All of my projects are available at [https://github.com/LuthandoVico](https://github.com/LuthandoVico)
 
