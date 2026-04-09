@@ -1,20 +1,67 @@
 <h1 align="center">Hi 👋, I'm Luthando Akhona Cele</h1>
-<h3 align="center">A passionate full-stack developer from South Africa</h3>
+<h3 align="center">🚀 Full-Stack Developer | Mobile & Web | AI Enthusiast  
+📍 South Africa</h3>
+## 👨‍💻 About Me
+I'm a passionate Computer Science student focused on building **real-world systems** using web, mobile, and backend technologies.
+
+- 💡 I enjoy solving real-life problems through software  
+- 📱 Experienced in Mobile App Development & Web Development  
+- 🔧 Currently building full-stack systems with APIs  
+- 🤝 Open to collaboration on impactful projects  
+
+---
+
+## 🚗 Featured Project: Car Rental System
+A **full-stack car rental platform** with web, mobile, and backend API.
+
+### 🔧 System Architecture
+- 🌐 Web Application (ASP.NET)
+- 📱 Mobile Application (Android)
+- ⚙️ REST API Backend
+- 🗄️ Database Integration
+
+### 🔗 Project Links
+- Backend API: https://github.com/LuthandoVico/car-rental-api  
+- Web App: https://github.com/LuthandoVico/car-rental  
+- Mobile App: https://github.com/LuthandoVico/Car-rental-mobile  
+
+---
+
+## 🤖 AI Chatbox System
+An AI-powered chatbot system integrating LLM capabilities.
+
+🔗 https://github.com/LuthandoVico/Car-ING-Chatbox-LLM  
+
+---
+
+## 🧠 Pathfinding & Image Similarity Project
+Graph-based system implementing algorithms like A* and similarity detection.
+
+🔗 https://github.com/LuthandoVico/PathFindingAndImageSimilarityProject  
+
+---
+
+## 🛠️ Tech Stack
+- 💻 Languages: Java, C#, JavaScript  
+- 🌐 Web: ASP.NET, HTML, CSS, React  
+- 📱 Mobile: Android Development  
+- ⚙️ Backend: REST APIs, .NET  
+- 🗄️ Database: SQL, MySQL  
+- ☁️ Tools: Git  
+
+---
+
+## 📫 Contact Me
+- 📧 Email: luthandocele908@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/luthando-cele-04820a202  
+
+---
+
+## ⚡ Fun Fact
+I love building systems that solve real community problems — and I'm working towards becoming my own boss through tech 🚀
 
 
 
-- 🌱 I’m effiecient in **Mobile app development and Web development**
-
-- 👯 I’m looking to collaborate on [Building solving real-world problems]
-
-- 👨‍💻 All of my projects are available at [https://github.com/LuthandoVico](https://github.com/LuthandoVico)
-
-
-- 📫 How to reach me **luthandocele908@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/luthando-cele-04820a202?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/luthando-cele-04820a202?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-- ⚡ Fun fact **I love building systems that solve real community problems — and I’m determined to become my own boss while having fun with tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
