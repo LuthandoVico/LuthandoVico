@@ -20,7 +20,7 @@ An AI-powered platform designed to bridge the gap between candidate qualificatio
 - **Core Features:** CV vs. Job Description matching, quantitative match scoring (0–100%), missing skills detection, and AI-generated tailored cover letters.
 - **Advanced Module:** Engineered an AI-driven mock interview system that generates role-specific, contextual questions based on the target job description.
 - **Tech Stack:** ASP.NET Core 8 Web API, React + Vite, Tailwind CSS, OpenAI GPT-4o-mini, C#, LINQ.
-- 🔗 **Repo:** [SmartApply AI Repository](https://github.com/LuthandoVico/SmartApply-AI) *(Update with your actual link)*
+- 🔗 **Repo:** [SmartApply AI Frontend](https://github.com/LuthandoVico/SmartApply-AI) [SmartApply-AI-Backend](https://github.com/LuthandoVico/SmartApplyAI-api)
 
 ### 🏛️ Wits / MERSETA "The Darkroom Project"
 *AI Software Systems Developer Intern*
