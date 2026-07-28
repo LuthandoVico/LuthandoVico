@@ -27,7 +27,7 @@ An AI-powered platform designed to bridge the gap between candidate qualificatio
 - Architected a dynamic skills-mapping web platform, designing data models that capture systematic, domain-specific knowledge for complex engineering roles.
 - Engineered a knowledge-preservation system to capture tacit knowledge from departing interns, transforming individual "know-how" into accessible institutional memory for incoming cohorts.
 - Integrated VR modules to simulate non-routine workplace scenarios, allowing users to practice discretionary judgment in a safe, scalable environment.
-- **Tech Stack:** React, .NET, PostgreSQL, VR Frameworks, Ethical AI integrations.
+- **Tech Stack:** Next.js, FastAPI, PostgreSQL, VR Frameworks, Ethical AI integrations.
 
 ### 🚗 DriveHub – Car Rental Management System
 A scalable full-stack car rental platform with web, mobile, and backend API integration.
