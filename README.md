@@ -34,6 +34,7 @@ A scalable full-stack car rental platform with web, mobile, and backend API inte
 - **Architecture:** React Admin Dashboard, Expo React Native Customer App, ASP.NET Core 8 REST API, PostgreSQL.
 - **Features:** JWT authentication with role-based access control, real-time vehicle availability tracking, and optimized CRUD operations.
 - 🔗 **Backend:** [car-rental-api](https://github.com/LuthandoVico/car-rental-api) | **Web:** [car-rental](https://github.com/LuthandoVico/car-rental) | **Mobile:** [Car-rental-mobile](https://github.com/LuthandoVico/Car-rental-mobile)
+- **Deployed App ** (https://lucky-mermaid-5322af.netlify.app)
 
 ### 🧠 Pathfinding & Image Similarity Engine
 A graph-based system demonstrating strong computer science fundamentals and algorithmic optimization.
