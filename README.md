@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luthando Akhona Cele</h1>
-<h3 align="center">🚀 Full-Stack Software Developer | AI & Skills Mapping Specialist | BSc IT Graduate<br>📍 Johannesburg, South Africa</h3>
+<h3 align="center">🚀 Full-Stack Software Developer | AI & Skills Mapping Specialist | BSc Computer Science and Informatics Graduate <br>📍 Johannesburg, South Africa</h3>
 
 ## 👨‍💻 About Me
 I am a passionate Full-Stack Software Developer and recent BSc IT graduate (University of Johannesburg) with a unique focus on **AI integration, skills mapping, and labour market technology**. 
